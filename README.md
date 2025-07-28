@@ -14,6 +14,5 @@
 <p><a href="https://www.buymeacoffee.com/kourtney"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="trag" /></a></p><br><br><br><br>
 
 ## 📚 Last 5 Books I read:
-
-<!-- GOODREADS-BOOKS:START -->
-<!-- GOODREADS-BOOKS:END -->
+<!-- GOODREADS:START -->
+<!-- GOODREADS:END -->
