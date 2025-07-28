@@ -19,7 +19,6 @@ jobs:
           comment_tag_name: "BOOKS"
           feed_list: "https://www.goodreads.com/review/list_rss/148846744?shelf=read"
           max_post_count: 5
-          template: '<a href="$url"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/$guid/l/$guid.jpg" width="80px" height="120px" alt="$title" title="$title" onerror="this.src=''https://via.placeholder.com/80x120/cccccc/666666?text=No+Cover''"/></a>'
-          commit_message: "📚 Updated book covers"
+          template: '<a href="$url" title="$title"><div style="display:inline-block; width:80px; height:120px; background:#f0f0f0; border:1px solid #ddd; margin:2px; text-align:center; font-size:10px; padding:5px; box-sizing:border-box; overflow:hidden;"><strong>$title</strong></div></a>'          commit_message: "📚 Updated book covers"
           committer_username: "books-bot"
           committer_email: "action@github.com"
