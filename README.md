@@ -17,7 +17,6 @@
 ## Last 5 books I read:
 <div align="center">
 
-<!-- GOODREADS:START -->
-<!-- GOODREADS:END -->
+<!-- GOODREADS:START -->- 📖 **[The Rachel Incident](https://www.goodreads.com/review/show/7708162971?utm_medium=api&utm_source=rss)**- 📖 **[The Bombshell](https://www.goodreads.com/review/show/7678378658?utm_medium=api&utm_source=rss)**- 📖 **[Crush](https://www.goodreads.com/review/show/7628951556?utm_medium=api&utm_source=rss)**- 📖 **[Margo&#39;s Got Money Troubles](https://www.goodreads.com/review/show/7621986878?utm_medium=api&utm_source=rss)**- 📖 **[The Serviceberry: Abundance and Reciprocity in the Natural World](https://www.goodreads.com/review/show/7617693258?utm_medium=api&utm_source=rss)**<!-- GOODREADS:END -->
 
 </div>
