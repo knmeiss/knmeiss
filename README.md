@@ -14,5 +14,4 @@
 <p><a href="https://www.buymeacoffee.com/kourtney"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="trag" /></a></p><br><br><br><br>
 
 ## 📚 Recent Books from Goodreads
-<!-- GOODREADS:START -->
-<!-- GOODREADS:END -->
+<!-- GOODREADS:START -->- 📖 **[The Rachel Incident](https://www.goodreads.com/review/show/7708162971?utm_medium=api&utm_source=rss)**- 📖 **[The Bombshell](https://www.goodreads.com/review/show/7678378658?utm_medium=api&utm_source=rss)**- 📖 **[Crush](https://www.goodreads.com/review/show/7628951556?utm_medium=api&utm_source=rss)**- 📖 **[Margo&#39;s Got Money Troubles](https://www.goodreads.com/review/show/7621986878?utm_medium=api&utm_source=rss)**- 📖 **[The Serviceberry: Abundance and Reciprocity in the Natural World](https://www.goodreads.com/review/show/7617693258?utm_medium=api&utm_source=rss)**<!-- GOODREADS:END -->
