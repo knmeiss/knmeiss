@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Kourtney!</h1>
-<h2 align="center">Developer Advocate @ Amazon</h2>
+<h2 align="center">Developer Advocate for @AmazonAppDev and @Alexa</h2>
 
 - 🔭 I’m currently working on [@AmazonAppstore](https://developer.amazon.com/apps-and-games)
 - 🌱 I’m currently learning React and React Native
@@ -11,6 +11,11 @@
 - 😄 My pronouns are She/Her
 - 💌 Connect with me on [linkedin](https://linkedin.com/in/kourtney-m-a59792a6)
 
+<h2>Languages and Tools:</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,react,aws,linux)](https://skillicons.dev)
+
+<h2>Support Me:</h2>
 <p><a href="https://www.buymeacoffee.com/kourtney"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="trag" /></a></p><br><br><br><br>
 
 ## 📚 Last 5 Books I read:
