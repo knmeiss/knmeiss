@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [@AmazonAppstore](https://developer.amazon.com/apps-and-games)
 - 🌱 I’m currently learning React and React Native
-- 👯 I’m looking to collaborate on my [DevRel WORM model](https://github.com/knmeiss/devrel-worm-model), a model I created to visualize DevRel’s impact
+- 👯 I’m looking to collaborate on [DevRel WORM model](https://github.com/knmeiss/devrel-worm-model) - this is a model I created to visualize DevRel’s impact
 - 😄 My pronouns are She/Her
 - 🐕‍🦺 My dog's name is Leo
 
